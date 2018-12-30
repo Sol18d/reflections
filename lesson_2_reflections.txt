@@ -1,0 +1,3 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+there is a folder where will store all of changes files and wuere I will commit the changes that I want. I need it because sometimes I lose the history of changes and I will not know where is a posible  bug
